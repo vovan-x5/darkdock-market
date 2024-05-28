@@ -10,6 +10,8 @@ http://ddockkkwl45kmnnd7b332qu4h3ov66e3zy2ytrpfarpswvtldcx3cvad.onion
 
 <a href="http://ddockkkwl45kmnnd7b332qu4h3ov66e3zy2ytrpfarpswvtldcx3cvad.onion"><img src="/assets/darkdock-preview.webp" alt="image" style="max-width: 100%;"><a>
 
+This is a strictly scientific and educational repository, the purpose of which is to give an idea of the world of the darkweb. We do not collect any commissions/kickbacks from market affiliate links. We are not affiliated with any legal entity and do not support illegal activities.
+
 ## About DarkDock Market
 DarkDock burst onto the darknet scene in the autumn of 2023 and, thanks to some great marketing and an impressive platform, quickly gained traction to become a darknet market of significant size. DarkDock Market has a wide range of physical and digital goods from hundreds of veteran darknet vendors, with particularly large numbers from Germany, the Netherlands, the United States and the United Kingdom. There are over 20,000 product listings, and you can pay with either Bitcoin or Monero. The team behind DarkDock has shown they’re serious about making the site better since it launched. All the signs are there that this market is going to become one of the biggest darknet markets in the world.
 
